@@ -1,0 +1,15 @@
+---
+settings:
+  name: BlueXP Workload Factory for AWS
+  platform: cloud
+  internal:
+    pdf_enabled: false
+  prod:
+    pdf_enabled: false
+    harmony_enabled: false
+    lipi_enabled: false
+  langs: ja-jp,us-en,ko-kr,zh-cn,zh-tw,de-de,es-es,fr-fr,it-it
+sidebar:
+  entries:
+  - title: Workload Factoryのすべてのドキュメント
+    url: "/index.html"
