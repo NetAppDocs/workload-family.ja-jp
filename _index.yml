@@ -38,10 +38,10 @@ product-family:
     url: https://docs.netapp.com/us-en/workload-databases/index.html
     summary: FSx for ONTAPファイルシステムを外部データストアとして使用する最適化のためのベストプラクティスが組み込まれており、データベースをエンドツーエンドで導入できます。
     tags: all,workload
-  - title: 玄愛
+  - title: 生成AI
     icon: "./media/icon-ai.png"
     url: https://docs.netapp.com/us-en/workload-genai/index.html
-    summary: FSx for ONTAPファイルシステムのデータをMLOpsプラットフォームやGenAI基盤モデルと統合し、機能的なチャットボットを作成します。
+    summary: FSx for ONTAPファイルシステムのデータをMLOpsプラットフォームや 生成AI基盤モデルと統合し、機能的なチャットボットを作成します。
     tags: all,workload
   - title: VMwareワークロード
     icon: "./media/icon-vmware.png"
