@@ -143,4 +143,6 @@
   <block id="a76e64a0fbf98a083080351e4cb67566" category="sidebar">VMwareワークロード</block>
   <block id="1a61f87dd9021f3f5868a4a4418a6116" category="sidebar">オンプレミスのvSphere環境からVMware Cloud on AWSへの移行を合理化し、カスタマイズしたFSx for ONTAPファイルシステムを外部データストアとして実装します。</block>
   <block id="3a6525a130f3a3659951bc80b52a42e1" category="sidebar">Workload Factoryのすべてのドキュメント</block>
+  <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">リリースノート</block>
+  <block id="735eefa9fde7ae8ac32b7982c22015cd" category="sidebar">Workload Factoryの新機能をご確認ください。</block>
 </blocks>
