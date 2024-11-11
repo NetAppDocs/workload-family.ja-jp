@@ -1,10 +1,8 @@
 ---
 product-family:
-  title: BlueXP Workload Factory for AWSのドキュメント
-  lead: BlueXP Workload Factory for AWSは、Amazon FSx for NetApp ONTAPを使用してワークロードを最適化するために設計された、強力なライフサイクル管理プラットフォームです。ワークロードタイプ別にドキュメントを参照するか、検索バーを使用して、Workload
-    Factoryのドキュメント内の任意の場所でコンテンツを検索します。
-  summary: BlueXP Workload Factory for AWSは、Amazon FSx for NetApp ONTAPを使用してワークロードを最適化するために設計された、強力なライフサイクル管理プラットフォームです。ワークロードタイプ別にドキュメントを参照するか、検索バーを使用して、Workload
-    Factoryのドキュメント内の任意の場所でコンテンツを検索します。
+  title: BlueXP  ワークロードの工場出荷時のドキュメント
+  lead: BlueXP  Workload Factoryは、Amazon FSx for NetApp ONTAPを使用してワークロードを最適化するために設計された、強力なライフサイクル管理プラットフォームです。ワークロードタイプ別にドキュメントを参照するか、検索バーを使用してワークロードファクトリドキュメント内の任意の場所でコンテンツを検索します。
+  summary: BlueXP  Workload Factoryは、Amazon FSx for NetApp ONTAPを使用してワークロードを最適化するために設計された、強力なライフサイクル管理プラットフォームです。ワークロードタイプ別にドキュメントを参照するか、検索バーを使用してワークロードファクトリドキュメント内の任意の場所でコンテンツを検索します。
   sidebarlinks:
   - title: すべて
     tags: all
@@ -21,14 +19,14 @@ product-family:
   - title: セットアップと管理
     icon: "./media/icon-admin.png"
     url: https://docs.netapp.com/us-en/workload-setup-admin/index.html
-    summary: Workload Factoryの使用を開始し、資格情報を管理し、Codeboxを使用して自動化する方法について説明します。
+    summary: ワークロードファクトリの使用を開始し、クレデンシャルを管理し、Codeboxを使用して自動化する方法について説明します。
     tags: all,admin
   - title: リリースノート
     icon: "./media/icon-docs.png"
     url: https://docs.netapp.com/us-en/workload-relnotes/whats-new.html
-    summary: Workload Factoryの新機能をご確認ください。
+    summary: ワークロード工場全体の最新情報をご確認ください。
     tags: all
-  - title: NetApp ONTAP 対応の Amazon FSX
+  - title: ストレージ
     icon: "./media/icon-storage.png"
     url: https://docs.netapp.com/us-en/workload-fsx-ontap/index.html
     summary: FSx for ONTAPファイルシステムを導入、管理することで、ONTAPのすべての機能をAWSネイティブのマネージドサービスとして利用できます。
@@ -36,9 +34,9 @@ product-family:
   - title: API
     icon: "./media/icon-api.png"
     url: https://console.workloads.netapp.com/api-doc
-    summary: Workload Factoryリソースをプログラムで管理します。
+    summary: ワークロードファクトリリソースをプログラムで管理します。
     tags: all,api
-  - title: データベースワークロード
+  - title: データベース
     icon: "./media/icon-database.png"
     url: https://docs.netapp.com/us-en/workload-databases/index.html
     summary: FSx for ONTAPファイルシステムを外部データストアとして使用する最適化のためのベストプラクティスが組み込まれており、データベースをエンドツーエンドで導入できます。
@@ -48,7 +46,7 @@ product-family:
     url: https://docs.netapp.com/us-en/workload-genai/index.html
     summary: FSx for ONTAPファイルシステムのデータをMLOpsプラットフォームや 生成AI基盤モデルと統合し、機能的なチャットボットを作成します。
     tags: all,workload
-  - title: VMwareワークロード
+  - title: VMware
     icon: "./media/icon-vmware.png"
     url: https://docs.netapp.com/us-en/workload-vmware/index.html
     summary: オンプレミスのvSphere環境からVMware Cloud on AWSへの移行を合理化し、カスタマイズしたFSx for ONTAPファイルシステムを外部データストアとして実装します。

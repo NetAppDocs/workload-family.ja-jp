@@ -125,24 +125,23 @@
   <block id="cc8b0535948da368f832027c19b7f853" category="list-text">シリアル番号フィールドには、上記のアカウントのシリアル番号（960xxxx）を必ずコピーしてください。これにより、アカウント処理が高速化されます。</block>
   <block id="684375e279a289295b72a006d93e2c4c" category="paragraph">このプロセスについては、ネットアップからご連絡ください。これは、新規ユーザ向けの1回限りのオンボーディング演習です。</block>
   <block id="5cdee814e2d9ba3490a8f16d00c65759" category="paragraph">NetAppサポートサイトのアカウントを取得したら、の手順を実行してアカウントをBlueXPログインに関連付けます。 <block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block></block>
-  <block id="e85dca3a461d7aa458cd568c9be40cff" category="sidebar">BlueXP Workload Factory for AWSは、Amazon FSx for NetApp ONTAPを使用してワークロードを最適化するために設計された、強力なライフサイクル管理プラットフォームです。ワークロードタイプ別にドキュメントを参照するか、検索バーを使用して、Workload Factoryのドキュメント内の任意の場所でコンテンツを検索します。</block>
-  <block id="4ad47d4476ebe4f0449905682cd3e009" category="sidebar">BlueXP Workload Factory for AWSのドキュメント</block>
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">すべて</block>
   <block id="db974238714ca8de634a7ce1d083a14f" category="sidebar">API</block>
   <block id="bb50e2459e4e016aa4b14a56adb2358f" category="sidebar">セットアップと管理</block>
   <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">ワークロード</block>
   <block id="8c4aa541ee911e8d80451ef8cc304806" category="sidebar">ストレージ</block>
-  <block id="4e09e2bc58d401c44c1cac7e05658640" category="sidebar">Workload Factoryの使用を開始し、資格情報を管理し、Codeboxを使用して自動化する方法について説明します。</block>
-  <block id="4d82a1ec1af02725042c8c785564ee7a" category="sidebar">NetApp ONTAP 対応の Amazon FSX</block>
   <block id="b02ec41574109950953b880723bdaffc" category="sidebar">FSx for ONTAPファイルシステムを導入、管理することで、ONTAPのすべての機能をAWSネイティブのマネージドサービスとして利用できます。</block>
-  <block id="99d8e052ca4a944dc122d9aeba599a75" category="sidebar">Workload Factoryリソースをプログラムで管理します。</block>
-  <block id="38bd169945a371832b0b65c9086b1792" category="sidebar">データベースワークロード</block>
   <block id="7200d2fe60732fcead16bd936858301f" category="sidebar">FSx for ONTAPファイルシステムを外部データストアとして使用する最適化のためのベストプラクティスが組み込まれており、データベースをエンドツーエンドで導入できます。</block>
   <block id="cccae24691c5ff7191f1ffebe4352285" category="sidebar">生成AI</block>
   <block id="2b810e335ed1777d9d90e638c21588bf" category="sidebar">FSx for ONTAPファイルシステムのデータをMLOpsプラットフォームや 生成AI基盤モデルと統合し、機能的なチャットボットを作成します。</block>
-  <block id="a76e64a0fbf98a083080351e4cb67566" category="sidebar">VMwareワークロード</block>
   <block id="1a61f87dd9021f3f5868a4a4418a6116" category="sidebar">オンプレミスのvSphere環境からVMware Cloud on AWSへの移行を合理化し、カスタマイズしたFSx for ONTAPファイルシステムを外部データストアとして実装します。</block>
-  <block id="3a6525a130f3a3659951bc80b52a42e1" category="sidebar">Workload Factoryのすべてのドキュメント</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">リリースノート</block>
-  <block id="735eefa9fde7ae8ac32b7982c22015cd" category="sidebar">Workload Factoryの新機能をご確認ください。</block>
+  <block id="deb20d45d08927a387c5a07ceb73a4fd" category="sidebar">BlueXP  Workload Factoryは、Amazon FSx for NetApp ONTAPを使用してワークロードを最適化するために設計された、強力なライフサイクル管理プラットフォームです。ワークロードタイプ別にドキュメントを参照するか、検索バーを使用してワークロードファクトリドキュメント内の任意の場所でコンテンツを検索します。</block>
+  <block id="a4edad3205a214cb4964ba36c07bc827" category="sidebar">BlueXP  ワークロードの工場出荷時のドキュメント</block>
+  <block id="4e5efe05038ddfebbc5f4ba036445445" category="sidebar">ワークロードファクトリの使用を開始し、クレデンシャルを管理し、Codeboxを使用して自動化する方法について説明します。</block>
+  <block id="a4bf8b7b035c6217aa21804a57d23c82" category="sidebar">ワークロード工場全体の最新情報をご確認ください。</block>
+  <block id="1c54637cbb61ce67644ba6cd76485851" category="sidebar">ワークロードファクトリリソースをプログラムで管理します。</block>
+  <block id="ea2ef9b0d095bf991f4973633b485340" category="sidebar">データベース</block>
+  <block id="56079badd056a19303cc26e6a4fcc7e0" category="sidebar">VMware</block>
+  <block id="bd5d38b22c1d5e199f1a1bcf5ea76eb8" category="sidebar">すべてのワークロード工場のドキュメント</block>
 </blocks>
