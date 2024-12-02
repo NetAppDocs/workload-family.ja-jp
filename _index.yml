@@ -26,16 +26,16 @@ product-family:
     url: https://docs.netapp.com/us-en/workload-relnotes/whats-new.html
     summary: ワークロード工場全体の最新情報をご確認ください。
     tags: all
-  - title: ストレージ
-    icon: "./media/icon-storage.png"
-    url: https://docs.netapp.com/us-en/workload-fsx-ontap/index.html
-    summary: FSx for ONTAPファイルシステムを導入、管理することで、ONTAPのすべての機能をAWSネイティブのマネージドサービスとして利用できます。
-    tags: all,storage
   - title: API
     icon: "./media/icon-api.png"
     url: https://console.workloads.netapp.com/api-doc
     summary: ワークロードファクトリリソースをプログラムで管理します。
     tags: all,api
+  - title: ビルダー
+    icon: "./media/icon-builders.png"
+    url: https://docs.netapp.com/us-en/workload-builders/index.html
+    summary: バージョン管理システムやCI/CDフローとクローンを瞬時に統合できるため、ソフトウェアバージョンの消費とアクセスが簡素化され、時間とリソースが節約されます。
+    tags: all,workload
   - title: データベース
     icon: "./media/icon-database.png"
     url: https://docs.netapp.com/us-en/workload-databases/index.html
@@ -46,6 +46,11 @@ product-family:
     url: https://docs.netapp.com/us-en/workload-genai/index.html
     summary: FSx for ONTAPファイルシステムのデータをMLOpsプラットフォームや 生成AI基盤モデルと統合し、機能的なチャットボットを作成します。
     tags: all,workload
+  - title: ストレージ
+    icon: "./media/icon-storage.png"
+    url: https://docs.netapp.com/us-en/workload-fsx-ontap/index.html
+    summary: FSx for ONTAPファイルシステムを導入、管理することで、ONTAPのすべての機能をAWSネイティブのマネージドサービスとして利用できます。
+    tags: all,storage
   - title: VMware
     icon: "./media/icon-vmware.png"
     url: https://docs.netapp.com/us-en/workload-vmware/index.html
