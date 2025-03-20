@@ -18,12 +18,12 @@ product-family:
   tiles:
   - title: セットアップと管理
     icon: "./media/icon-admin.png"
-    url: https://docs.netapp.com/us-en/workload-setup-admin/index.html
+    url: "../workload-setup-admin/index.html"
     summary: ワークロードファクトリの使用を開始し、クレデンシャルを管理し、Codeboxを使用して自動化する方法について説明します。
     tags: all,admin
   - title: リリースノート
     icon: "./media/icon-docs.png"
-    url: https://docs.netapp.com/us-en/workload-relnotes/whats-new.html
+    url: "../workload-relnotes/whats-new.html"
     summary: ワークロード工場全体の最新情報をご確認ください。
     tags: all
   - title: API
@@ -33,26 +33,26 @@ product-family:
     tags: all,api
   - title: ビルダー
     icon: "./media/icon-builders.png"
-    url: https://docs.netapp.com/us-en/workload-builders/index.html
+    url: "../workload-builders/index.html"
     summary: バージョン管理システムやCI/CDフローとクローンを瞬時に統合できるため、ソフトウェアバージョンの消費とアクセスが簡素化され、時間とリソースが節約されます。
     tags: all,workload
   - title: データベース
     icon: "./media/icon-database.png"
-    url: https://docs.netapp.com/us-en/workload-databases/index.html
+    url: "../workload-databases/index.html"
     summary: FSx for ONTAPファイルシステムを外部データストアとして使用する最適化のためのベストプラクティスが組み込まれており、データベースをエンドツーエンドで導入できます。
     tags: all,workload
   - title: 生成AI
     icon: "./media/icon-ai.png"
-    url: https://docs.netapp.com/us-en/workload-genai/index.html
+    url: "../workload-genai/index.html"
     summary: FSx for ONTAPファイルシステムのデータをMLOpsプラットフォームや 生成AI基盤モデルと統合し、機能的なチャットボットを作成します。
     tags: all,workload
   - title: ストレージ
     icon: "./media/icon-storage.png"
-    url: https://docs.netapp.com/us-en/workload-fsx-ontap/index.html
+    url: "../workload-fsx-ontap/index.html"
     summary: FSx for ONTAPファイルシステムを導入、管理することで、ONTAPのすべての機能をAWSネイティブのマネージドサービスとして利用できます。
     tags: all,storage
   - title: VMware
     icon: "./media/icon-vmware.png"
-    url: https://docs.netapp.com/us-en/workload-vmware/index.html
+    url: "../workload-vmware/index.html"
     summary: オンプレミスのvSphere環境からVMware Cloud on AWSへの移行を合理化し、カスタマイズしたFSx for ONTAPファイルシステムを外部データストアとして実装します。
     tags: all,workload
