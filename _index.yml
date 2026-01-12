@@ -35,8 +35,8 @@ product-family:
     tags: all,api
   - title: EDA
     icon: "./media/icon-builders.png"
-    url: "../workload-builders/index.html"
-    summary: 複数のファイルシステムにわたって FSx for ONTAPを最適化し、自動化されたストレージ パラメータ管理を通じてパフォーマンスを向上させ、運用コストを削減します。
+    url: "../workload-eda/index.html"
+    summary: 自動ストレージ管理により、複数のファイルシステムにわたって FSx for ONTAPのパフォーマンスとコストを最適化します。
     tags: all,workload
   - title: データベース
     icon: "./media/icon-database.png"

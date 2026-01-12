@@ -185,5 +185,5 @@
   <block id="99d8e052ca4a944dc122d9aeba599a75" category="sidebar">Workload Factory リソースをプログラムで管理します。</block>
   <block id="3a6525a130f3a3659951bc80b52a42e1" category="sidebar">すべてのワークロードファクトリーのドキュメント</block>
   <block id="81f1b99be9951f3725aa3dd62766099e" category="sidebar">EDA</block>
-  <block id="d9c8047218c7f33bcf7a55b46924a47b" category="sidebar">複数のファイルシステムにわたって FSx for ONTAPを最適化し、自動化されたストレージ パラメータ管理を通じてパフォーマンスを向上させ、運用コストを削減します。</block>
+  <block id="d783a4bda63a5d10b5fdfe91d9c38e49" category="sidebar">自動ストレージ管理により、複数のファイルシステムにわたって FSx for ONTAPのパフォーマンスとコストを最適化します。</block>
 </blocks>
