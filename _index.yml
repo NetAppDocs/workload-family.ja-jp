@@ -43,11 +43,6 @@ product-family:
     url: "../workload-databases/index.html"
     summary: FSx for ONTAPファイルシステムを外部データストアとして使用する最適化のためのベストプラクティスが組み込まれており、データベースをエンドツーエンドで導入できます。
     tags: all,workload
-  - title: 生成AI
-    icon: "./media/icon-ai.png"
-    url: "../workload-genai/index.html"
-    summary: FSx for ONTAPファイルシステムのデータをMLOpsプラットフォームや 生成AI基盤モデルと統合し、機能的なチャットボットを作成します。
-    tags: all,workload
   - title: ストレージ
     icon: "./media/icon-storage.png"
     url: "../workload-fsx-ontap/index.html"

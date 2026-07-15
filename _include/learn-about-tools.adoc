@@ -4,6 +4,7 @@
 
 
 
+[[tools-to-use-netapp-workload-factory]]
 == NetApp Workload Factory を使用するためのツール
 
 NetApp Workload Factory は次のツールで使用できます。
