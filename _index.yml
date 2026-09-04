@@ -19,37 +19,30 @@ product-family:
     tags: storage
   tiles:
   - title: セットアップと管理
-    icon: "./media/icon-admin.png"
     url: "../workload-setup-admin/index.html"
     summary: Workload Factory の使用を開始し、資格情報を管理し、自動化のために Codebox を使用する方法を学習します。
     tags: all,admin
   - title: リリースノート
-    icon: "./media/icon-docs.png"
     url: "../workload-relnotes/whats-new.html"
     summary: Workload Factory 全体の新機能について学びます。
     tags: all
   - title: API
-    icon: "./media/icon-api.png"
     url: https://console.workloads.netapp.com/api-doc
     summary: Workload Factory リソースをプログラムで管理します。
     tags: all,api
   - title: EDA
-    icon: "./media/icon-builders.png"
     url: "../workload-eda/index.html"
     summary: 自動ストレージ管理により、複数のファイルシステムにわたって FSx for ONTAPのパフォーマンスとコストを最適化します。
     tags: all,workload
   - title: データベース
-    icon: "./media/icon-database.png"
     url: "../workload-databases/index.html"
     summary: FSx for ONTAPファイルシステムを外部データストアとして使用する最適化のためのベストプラクティスが組み込まれており、データベースをエンドツーエンドで導入できます。
     tags: all,workload
   - title: ストレージ
-    icon: "./media/icon-storage.png"
     url: "../workload-fsx-ontap/index.html"
     summary: FSx for ONTAPファイルシステムを導入、管理することで、ONTAPのすべての機能をAWSネイティブのマネージドサービスとして利用できます。
     tags: all,storage
   - title: VMware
-    icon: "./media/icon-vmware.png"
     url: "../workload-vmware/index.html"
     summary: オンプレミスのvSphere環境からVMware Cloud on AWSへの移行を合理化し、カスタマイズしたFSx for ONTAPファイルシステムを外部データストアとして実装します。
     tags: all,workload
