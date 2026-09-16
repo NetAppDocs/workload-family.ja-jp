@@ -46,3 +46,7 @@ product-family:
     url: "../workload-vmware/index.html"
     summary: オンプレミスのvSphere環境からVMware Cloud on AWSへの移行を合理化し、カスタマイズしたFSx for ONTAPファイルシステムを外部データストアとして実装します。
     tags: all,workload
+  - title: 情報セキュリティ
+    url: "../workload-infosec/index.html"
+    summary: Workload Factory のセキュリティ機能と、エンタープライズセキュリティ要件をサポートするためにプラットフォームを評価してオンボードする方法について説明します。
+    tags: all,workload
